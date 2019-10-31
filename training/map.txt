@@ -1,0 +1,43 @@
+PC12_SNAP-DOR_Gcamp6f_10uM SNC80_55mM KCL_
+1 - Frame 68
+2 - Frame 142
+3 - Frame 148
+4 - Frame 382
+
+PC12_SNAP-DOR_Gcamp6f_1uL DMSO_55mM KCL_
+5 - Frame 1
+6 - Frame 231
+7 - Frame 360
+8 - Frame 408
+
+PC12_SNAP-DOR_Gcamp6f_NGF_10uM NTI_55mM KCL_
+9 - Frame 1
+10 - Frame 333
+11 - Frame 371
+
+PC12_SNAP-DOR_Gcamp6f_NGF_10uM SNC80_55mM KCL_
+12 - Frame 125
+13 - Frame 86
+
+PC12_SNAP-DOR_Gcamp6f_NGF_10uM CNA pre_10uM DADLE_55mM KCL_
+(dim cells)
+14 - Frame 1
+15 - Frame 480
+16 - Frame 377
+
+PC12_SNAP-DOR_Gcamp6f_NT_1uL DMSO_55mM KCL_
+17 - Frame 1
+18 - Frame 367
+
+PC12_SNAP-DOR_Gcamp6f_NT_10uM CNA_55mM KCL_1
+19 - Frame 1
+20 - Frame 138
+21 - Frame 360
+22 - Frame 404
+
+PC12_SNAP-DOR_Gcamp6f_NT_10uM DADLE_55mM KCL_
+(dim cells)
+23 - Frame 1
+24 - Frame 125
+25 - Frame 365
+

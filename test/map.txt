@@ -1,0 +1,25 @@
+20191015 PC12 Gcamp
+PC12_SNAP-DOR_Gcamp6f_NGF_10uM NTI_1
+1 - frame 1
+2 - frame 408
+
+PC12_SNAP-DOR_Gcamp6f_NT_DMSO_
+3 - frame 224
+4 - frame 357
+
+PC12_SNAP-DOR_Gcamp6f_NT_10uM CNA_
+5 - frame 122
+6 - frame 413
+
+20191019 PC12 Gcamp
+PC12_SNAP-DOR_Gcamp6f_NGF_10uM CNA pre_100nM SNC80_
+7 - frame 1
+8 - frame 358
+
+20191015 PC12 Gcamp
+PC12_SNAP-DOR_Gcamp6f_NGF_10uM CNA_100nM SNC80_1
+9 - frame 1
+
+PC12_SNAP-DOR_Gcamp6f_NT_10uM CNA_
+10 - frame 1
+11 - frame 359
